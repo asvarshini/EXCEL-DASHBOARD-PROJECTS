@@ -19,7 +19,7 @@ An interactive Excel dashboard built using Microsoft Excel, Pivot Tables, Charts
 ## Dashboard Preview
 
 <p align="center">
-  <img src="screenshots/dashboard.png.png" width="700"/>
+  <img src="screenshots/Dashboard.png" width="700"/>
 </p>
 
 ## Project Structure
